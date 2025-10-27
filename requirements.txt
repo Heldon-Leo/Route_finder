@@ -2,3 +2,5 @@ streamlit
 streamlit-folium
 folium
 geopy
+networkx
+matplotlib
